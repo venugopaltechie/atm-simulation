@@ -5,7 +5,6 @@ This project is a Python-based ATM Simulation System that replicates the basic o
 - 🔑 *PIN Authentication* – Secure login system with PIN verification.  
 - 💰 *Check Balance* – View account balance.  
 - ➕ *Deposit Money* – Add funds to your account.  
-- ➖ *Withdraw Money* – Withdraw funds (with balance check).  
-- 📜 *Mini Statement (optional)* – Show transaction history.  
+- ➖ *Withdraw Money* – Withdraw funds (with balance check).   
 - 🚪 *Exit Option* – Close ATM session safely.  
 
